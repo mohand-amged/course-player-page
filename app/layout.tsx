@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Course Player | Advanced React Patterns",
+  title: "Course Player",
   description: "Interactive course player for online learning",
 };
 

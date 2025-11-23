@@ -18,7 +18,7 @@ export default function CoursePlayerPage() {
     <div className="min-h-screen bg-zinc-50 dark:bg-black text-zinc-900 dark:text-zinc-100 font-sans">
       {/* Navigation / Header Placeholder */}
       <header className="h-16 border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 flex items-center px-4 lg:px-8 sticky top-0 z-40">
-        <h1 className="text-lg font-bold">Advanced React Patterns</h1>
+        <h1 className="text-lg font-bold">Course Player</h1>
       </header>
 
       <main className="max-w-[1600px] mx-auto p-4 lg:p-6">
@@ -37,7 +37,7 @@ export default function CoursePlayerPage() {
             {/* Video Info & Actions */}
             <div className="mt-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
               <div>
-                <h2 className="text-2xl font-bold mb-2">Understanding React Server Components</h2>
+                <h2 className="text-2xl font-bold mb-2">Lesson Title</h2>
                 <p className="text-zinc-500">Lesson 4 • 12 mins</p>
               </div>
               <div className="flex items-center gap-2">
