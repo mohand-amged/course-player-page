@@ -41,7 +41,7 @@ export function VideoPlayer({ isWideMode, toggleWideMode }: VideoPlayerProps) {
                                 {isPlaying ? <Pause size={20} /> : <Play size={20} />}
                             </button>
                             <Volume2 size={20} />
-                            <span className="text-sm">00:00 / 10:00</span>
+                            <span className="text-sm">00:00 / 25:00</span>
                         </div>
                         <div className="flex items-center gap-4">
                             <Settings size={20} />
